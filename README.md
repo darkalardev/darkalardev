@@ -11,3 +11,9 @@
 🫶​ I create educational content about game development on my YouTube channel, Darkalar.  
 ⚔️​ My favorite game is Dark Souls.  
 🎮 Playing games allows me to analyze their design and mechanics, which helps me improve my own development skills.  
+
+<div>
+  <a href="https://github.com/darkalardev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darkalardev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkalardev&layout=compact&langs_count=16&theme=dracula"/>
+</div>
