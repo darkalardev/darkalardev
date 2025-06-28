@@ -12,6 +12,8 @@
 ⚔️​ My favorite game is Dark Souls.  
 🎮 Playing games allows me to analyze their design and mechanics, which helps me improve my own development skills.  
 
+## Stats 🔎​
+
 <div>
   <a href="https://github.com/darkalardev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darkalardev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
