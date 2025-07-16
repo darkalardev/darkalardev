@@ -17,7 +17,7 @@
 <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkalardev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
 # 🎮​ My Games
-  [![Gaucho Forge](https://img.shields.io/badge/GauchoForge-%#23FF0000.svg)](https://gauchoforge.com/) [![Steam](https://img.shields.io/badge/Steam-%3A3C3E.svg?logo=steam&logoColor=white)](https://store.steampowered.com/publisher/GauchoForge) [![Google Play](https://img.shields.io/badge/GooglePlay-%34a853.svg?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=6952029705780200379)
+[![GauchoForge](https://img.shields.io/badge/GauchoForge-%23E4405F.svg)](https://gauchoforge.com/) [![Steam](https://img.shields.io/badge/Steam-%230077B5.svg?logo=steam&logoColor=white)](https://store.steampowered.com/publisher/GauchoForge) [![Google Play](https://img.shields.io/badge/GooglePlay-%34a853.svg?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=6952029705780200379)
 
 # 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darkalardev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://linkedin.com/in/agustinadducci) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@darkalardev)
